@@ -1,0 +1,193 @@
+.logo {
+    height: 33px;
+}
+
+.YellowLine {
+    width: 100%;
+    height: 20px;
+    background-color: #ffcd11;
+}
+
+.ImageSize {
+    height: 650px;
+    width: 100%;
+}
+
+.Slider {
+    margin-top: 5px;
+}
+
+.card-img-top {
+    height: 150px;
+    width: 100%;
+
+}
+
+.card {
+    margin-left: 30px;
+}
+
+.card:hover {
+    box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.01, 1.01);
+}
+
+.row1 {
+    
+    background-color: #f8f8f8;
+}
+
+.card-body h2 {
+    font-size: 26px;
+    font-weight: 700;
+    color: #2f2f2f;
+
+}
+
+.quick h4 {
+    font-weight: 700;
+}
+
+.quick a {
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+    font-weight: 700;
+}
+.quick {
+    margin-top: 50px;
+    
+}
+.quick a:hover {
+    color: #ffcd11;
+}
+.Imagesize1 {
+    height: 280px;
+}
+.Slider1{
+    margin-top: 10px;
+}
+.Quickslide1{
+    margin-top: 30px;
+}
+.Latest a{
+    color: black;
+    text-decoration: none;
+   
+}
+.Latest a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.Latest h4{
+    font-weight: 700;
+}
+#Special1{
+    font-size: 20px;
+    color: red;
+}
+#Date1{
+    font-weight: 700;
+}
+#hr1{
+    color: #FFCD11;
+    height: 10px;
+    background: #FFCD11;
+    
+}
+#hr2{
+    color:#FFCD11;
+    height: 10px;
+    background: #ffcd11;
+    width: 40px;
+    
+}
+.More h5:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#hr3{
+    color: gray;
+    height: 10px;
+    background: gray;
+    
+}
+.Facebook:hover{
+    color: #ffcd11;
+}
+.Instagram:hover{
+    color: #ffcd11;
+}
+.Linkedin:hover{
+    color: #ffcd11;
+}
+.Youtube:hover{
+    color: #ffcd11;
+}
+.Twitter:hover{
+    color: #ffcd11;
+}
+.Instagram{
+    padding-left: 10px;
+}
+.Linkedin{
+    padding-left: 10px;
+}
+.Youtube{
+    padding-left: 10px;
+}
+.Twitter{
+    padding-left: 10px;
+}
+.Social{
+    height: 100px;
+}
+.table1 a{
+    text-decoration: none;
+    color: black;
+}
+.table2{
+padding-left: 30px;
+}
+.table2 a{
+    text-decoration: none;
+    color: black;
+}
+.table3{
+padding-left: 30px;
+}
+.table3 a{
+    text-decoration: none;
+    color: black;
+}
+.table4{
+    padding-left: 30px;
+}
+.table4 a{
+    text-decoration: none;
+    color: black;
+}
+.table5{
+    padding-left: 30px;
+}
+.table5 a{
+    text-decoration: none;
+    color: black;
+}
+.footerfinal{
+    width: 100%;
+    height: 720px;
+    background-color: #cccccc;
+}
+.d-flex{
+    padding-top: 20px;
+}
+#footer1{
+    font-weight: 600;
+}
+.Social2{
+    margin-left: 100px;
+}
+.Social2:hover{
+cursor: pointer;
+}
